@@ -10,8 +10,4 @@ public class Triangle {
             return "Isosceles";
         return "Scalene";
     }
-
-    public static void main(String[] args) {
-        System.out.println(typeTriangle(3,3,3));
-    }
 }
